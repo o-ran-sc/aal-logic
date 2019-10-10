@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "12366286_2a972e04",
+        "filename": "INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 1000089
+      },
+      "writtenOn": "2019-10-10T15:08:53Z",
+      "side": 1,
+      "message": "- \u0027aal/logic\u0027 only please remove the other unrelated repos.",
+      "range": {
+        "startLine": 32,
+        "startChar": 0,
+        "endLine": 36,
+        "endChar": 16
+      },
+      "revId": "d93463c24d254bd560810560d2bbb6abd319aa48",
+      "serverId": "84e4e190-e623-4c37-9eda-58b1937c1b53",
+      "unresolved": true
+    }
+  ]
+}
