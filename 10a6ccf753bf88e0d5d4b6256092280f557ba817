@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "413caa13_83cb8f46",
+        "filename": "INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 1000246
+      },
+      "writtenOn": "2019-11-06T23:48:26Z",
+      "side": 1,
+      "message": "Link states Jackie only has approval for pti/rtp. Should he be in this group?\n\nAlso, one name per type (addition/removal) please (but no biggie this one)",
+      "range": {
+        "startLine": 53,
+        "startChar": 0,
+        "endLine": 53,
+        "endChar": 2
+      },
+      "revId": "10a6ccf753bf88e0d5d4b6256092280f557ba817",
+      "serverId": "84e4e190-e623-4c37-9eda-58b1937c1b53",
+      "unresolved": true
+    }
+  ]
+}
