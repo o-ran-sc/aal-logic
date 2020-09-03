@@ -1,3 +1,4 @@
 # UUID                                                                    	Group Name
 #
+1fb81c085aa1fde71d6d517ed8344245cfcb7bf6                                  	saml/oran-gerrit-aal-logic-committers
 ldap:cn=oran-gerrit-aal-logic-committers,ou=Groups,dc=freestandards,dc=org	ldap/oran-gerrit-aal-logic-committers
